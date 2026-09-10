@@ -1,4 +1,4 @@
-#Aplicație mobilă
+##Aplicație mobilă
 
 Aplicația oficială sala de fitness din Galați. Construită cu **Expo (React Native)** — un singur cod pentru iOS (App Store) și Android (Google Play).
 
