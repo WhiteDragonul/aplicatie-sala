@@ -1,6 +1,6 @@
-# MaxFit Galați — Aplicație mobilă
+#Aplicație mobilă
 
-Aplicația oficială MaxFit (maxfit.ro), sala de fitness din Galați. Construită cu **Expo (React Native)** — un singur cod pentru iOS (App Store) și Android (Google Play).
+Aplicația oficială sala de fitness din Galați. Construită cu **Expo (React Native)** — un singur cod pentru iOS (App Store) și Android (Google Play).
 
 ## Funcționalități
 
